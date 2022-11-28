@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+
+}
+.box{
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+}
+.courier-font{
+    
+    color: aliceblue;
+    font-size: 100px;
+
+}
